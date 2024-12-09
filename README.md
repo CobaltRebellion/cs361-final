@@ -1,11 +1,17 @@
 ## Summary of changes
 fixed formatting both in the code and json output (geometry of waypoints 
 were being outputted first rather than properties like the example showed)
+
 Changed variable j to json
+
 Created class Formatting to handle the Formatting before class World 
+
 Renamed variables to make more sense, j to json, c to coordinates, etc...
+
 Made testing work with class Formatting
+
 Added dependency injection to class World
+
 Changed type variable name in Waypoint to icon
 
 ## GIS Tool
